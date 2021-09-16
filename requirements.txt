@@ -1,1 +1,11 @@
-allensdk>=1.6.0
+numpy==1.18.5
+pynrrd==0.4.2
+requests==2.25.0
+allensdk==2.12.3
+tqdm==4.54.1
+nibabel==3.2.1
+pandas==0.25.3
+apscheduler==3.7.0
+Flask>=1.0
+flask_wtf==0.15.1
+WTForms==2.3.3
