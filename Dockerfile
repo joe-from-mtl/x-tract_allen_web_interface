@@ -11,4 +11,4 @@ EXPOSE 5000
 
 COPY . .
 
-ENTRYPOINT [ "python3", "./web/__init__.py" ]
+CMD [ "python3", "./web/__init__.py" ]
